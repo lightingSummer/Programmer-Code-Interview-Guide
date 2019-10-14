@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec73c842-e946-4e16-af3d-d86b6347f558" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/不重复打印排序数组中相加和为给定值的所有三元组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/不重复打印排序数组中相加和为给定值的所有二元组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/换钱的最少货币数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和为给定值的最长子数组系列问题补1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和为给定值的最长子数组系列问题补2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和为给定值的最长子数组长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和小于或等于给定值的最长子数组长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/未排序正数数组中累加和为给定值的最长子数组的长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/用一个栈实现另一个栈的排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/用递归函数和栈逆序一个栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/由两个栈组成的队列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/设计getMin功能的栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/换钱的方法数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/机器人达到指定位置方法数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/求最大子矩阵的大小.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/程序员代码面试指南/生成窗口最大值数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codes/程序员代码面试指南/最长的可整合子数组的长度.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/程序员代码面试指南/最长的可整合子数组的长度.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/codes/程序员代码面试指南/用一个栈实现另一个栈的排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codes/程序员代码面试指南/用一个栈实现另一个栈的排序.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,20 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/a_template.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和小于或等于给定值的最长子数组长度.java">
+        <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/求最大子矩阵的大小.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+            <state relative-caret-position="533">
+              <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,7 +46,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/在行列都排好序的矩阵中找指定的数.java" />
-        <option value="$PROJECT_DIR$/src/程序员代码面试指南/a_template.java" />
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/最长的可整合子数组的长度.java" />
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/不重复打印排序数组中相加和为给定值的所有二元组.java" />
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/不重复打印排序数组中相加和为给定值的所有三元组.java" />
@@ -77,6 +59,11 @@
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/换钱的最少货币数.java" />
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/用一个栈实现另一个栈的排序.java" />
         <option value="$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和小于或等于给定值的最长子数组长度.java" />
+        <option value="$PROJECT_DIR$/src/程序员代码面试指南/a_template.java" />
+        <option value="$PROJECT_DIR$/src/程序员代码面试指南/生成窗口最大值数组.java" />
+        <option value="$PROJECT_DIR$/src/程序员代码面试指南/机器人达到指定位置方法数.java" />
+        <option value="$PROJECT_DIR$/src/程序员代码面试指南/换钱的方法数.java" />
+        <option value="$PROJECT_DIR$/src/程序员代码面试指南/求最大子矩阵的大小.java" />
       </list>
     </option>
   </component>
@@ -92,6 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,13 +103,12 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570777334835" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571057426438" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.由两个栈组成的队列">
+  <component name="RunManager" selected="Application.求最大子矩阵的大小">
     <configuration name="由两个栈组成的队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.由两个栈组成的队列" />
       <module name="codes" />
@@ -151,6 +138,45 @@
     </configuration>
     <configuration name="未排序数组中累加和为给定值的最长子数组系列问题补2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.未排序数组中累加和为给定值的最长子数组系列问题补2" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="程序员代码面试指南.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="机器人达到指定位置方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.机器人达到指定位置方法数" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="程序员代码面试指南.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="换钱的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.换钱的方法数" />
+      <module name="codes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="程序员代码面试指南.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求最大子矩阵的大小" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="程序员代码面试指南.求最大子矩阵的大小" />
       <module name="codes" />
       <extension name="coverage">
         <pattern>
@@ -204,9 +230,15 @@
     <list>
       <item itemvalue="Application.由两个栈组成的队列" />
       <item itemvalue="Application.未排序数组中累加和为给定值的最长子数组系列问题补2" />
+      <item itemvalue="Application.机器人达到指定位置方法数" />
+      <item itemvalue="Application.换钱的方法数" />
+      <item itemvalue="Application.求最大子矩阵的大小" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.求最大子矩阵的大小" />
+        <item itemvalue="Application.换钱的方法数" />
+        <item itemvalue="Application.机器人达到指定位置方法数" />
         <item itemvalue="Application.未排序数组中累加和为给定值的最长子数组系列问题补2" />
         <item itemvalue="Application.由两个栈组成的队列" />
       </list>
@@ -223,18 +255,20 @@
       <option name="presentableId" value="Default" />
       <updated>1570692447593</updated>
       <workItem from="1570692453313" duration="15146000" />
-      <workItem from="1570775196170" duration="1836000" />
+      <workItem from="1570775196170" duration="4201000" />
+      <workItem from="1570962067290" duration="318000" />
+      <workItem from="1571052408877" duration="3498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16982000" />
+    <option name="totallyTimeSpent" value="23163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18305598" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18381241" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -381,16 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/换钱的最少货币数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/用一个栈实现另一个栈的排序.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
@@ -401,17 +425,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/a_template.java">
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/换钱的最少货币数.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="506">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/未排序数组中累加和小于或等于给定值的最长子数组长度.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        <state relative-caret-position="326">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/a_template.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/生成窗口最大值数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/机器人达到指定位置方法数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/换钱的方法数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="48" lean-forward="true" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/程序员代码面试指南/求最大子矩阵的大小.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
